@@ -1,5 +1,5 @@
 opencv-python
-tensorflow
-flask
-flask-cors
 pillow
+tensorflow
+flask-cors
+flask
